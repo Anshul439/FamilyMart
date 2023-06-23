@@ -1,0 +1,16 @@
+/* Custom styles */
+body {
+    padding-top: 80px; /* Adjust for fixed navbar height */
+  }
+  
+  section {
+    min-height: 500px; /* Adjust the minimum height of sections as per your content */
+  }
+  
+  h2 {
+    color: #333;
+  }
+  
+  .bg-light {
+    background-color: #f8
+  
